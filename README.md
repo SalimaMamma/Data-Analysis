@@ -12,4 +12,4 @@ https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia
 - MAMMA Salima
 - AIN GUERAD Manel
 
-All details are in the report attached to this repository and the generated graphs are available in Photos repository
+All details are in the report ( written in french language ) attached to this repository and the generated graphs are available in Photos repository
