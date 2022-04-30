@@ -8,7 +8,7 @@ https://www.kaggle.com/datasets/mahirahmzh/starbucks-customer-retention-malaysia
 - Result analysis and interpretation
 - Correspondance analysis with interpretation
 
-**Work done by **:
+**Work done by**:
 - MAMMA Salima
 - AIN GUERAD Manel
 
